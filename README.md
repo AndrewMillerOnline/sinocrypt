@@ -1,2 +1,2 @@
 # sinocrypt
- A deceptively complex single substitution cipher, written in Python
+ A deceptively complex simple substitution cipher, written in Python
